@@ -1,0 +1,227 @@
+body {
+    background: rgba(39, 34, 34, 0.986);
+}
+
+h1 {
+    text-align: center;
+    color: cyan;
+}
+
+h3 {
+    margin-top: 350px;
+    text-align: center;
+    font-size: large;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    flex-flow: nowrap;
+}
+
+.white {
+    width: 8%;
+    height: 400px;
+    margin: 0 2px;
+    background: white;
+    position: relative;
+    border-radius: 0px 0px 25px 25px;
+
+}
+
+.white:hover {
+    width: 8%;
+    height: 420px;
+    background-color: blueviolet;
+
+}
+
+/*.black{
+    width: 8%;
+    height: 400px;
+    margin: 0 2px;
+    background: black;
+    position: relative;
+
+}
+
+.black:hover {
+    width: 8%;
+    height: 420px;
+    background-color:red;
+    
+}*/
+
+
+.cover {
+    width: 5%;
+    height: 240px;
+    position: absolute;
+    top: 6;
+    margin-left: 75px;
+    background: black;
+    z-index: 1;
+    border-radius: 0px 0px 15px 15px; 
+}
+
+.cover1 {
+    width: 5%;
+    height: 240px;
+    position: absolute;
+    top: 6;
+    margin-left: 180px;
+    background: black;
+    z-index: 1;
+    border-radius: 0px 0px 15px 15px; 
+}
+
+
+.cover2 {
+    width: 5%;
+    height: 240px;
+    position: absolute;
+    top: 6;
+    margin-left: 384px;
+    background: black;
+    z-index: 1;
+    border-radius: 0px 0px 15px 15px; 
+}
+
+.cover3 {
+    width: 5%;
+    height: 240px;
+    position: absolute;
+    top: 6;
+    margin-left:489px;
+    background: black;
+    z-index: 1;
+    border-radius: 0px 0px 15px 15px; 
+}
+
+.cover4 {
+    width: 5%;
+    height: 240px;
+    position: absolute;
+    top: 6;
+    margin-left: 595px;
+    background: black;
+    z-index: 1;
+    border-radius: 0px 0px 15px 15px; 
+}
+
+.cover5 {
+    width: 5%;
+    height: 240px;
+    position: absolute;
+    top: 6;
+    margin-left: 810px;
+    background: black;
+    z-index: 1;
+    border-radius: 0px 0px 15px 15px; 
+}
+
+.cover6 {
+    width: 5%;
+    height: 240px;
+    position: absolute;
+    top: 6;
+    margin-left: 910px;
+    background: black;
+    z-index: 1;
+    border-radius: 0px 0px 15px 15px; 
+}
+
+.cover7 {
+    width: 5%;
+    height: 240px;
+    position: absolute;
+    top: 6;
+    margin-left: 1120px;
+    background: black;
+    z-index: 1;
+    border-radius: 0px 0px 15px 15px; 
+    
+     
+}
+
+.cover7:hover {
+    width: 5%;
+    height: 244px;
+    background: rgb(198, 18, 18);
+    
+    
+     
+}
+
+.cover6:hover {
+    width: 5%;
+    height: 244px;
+    background: #12c63c;
+    
+    
+     
+}
+
+
+.cover5:hover {
+    width: 5%;
+    height: 244px;
+    background: rgb(222, 237, 83);
+    
+    
+     
+}
+
+.cover4:hover {
+    width: 5%;
+    height: 244px;
+    background: rgb(198, 18, 18);
+    
+    
+     
+}
+
+
+.cover3:hover {
+    width: 5%;
+    height: 244px;
+    background: rgb(198, 18, 18);
+    
+    
+     
+}
+
+
+.cover2:hover {
+    width: 5%;
+    height: 244px;
+    background: rgb(198, 18, 18);
+    
+    
+     
+}
+
+
+.cover1:hover {
+    width: 5%;
+    height: 244px;
+    background: rgb(198, 18, 18);
+    
+    
+     
+}
+
+
+.cover:hover {
+    width: 5%;
+    height: 244px;
+    background: rgb(198, 18, 18);
+    
+    
+     
+}
+
+
+
+
+
